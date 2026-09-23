@@ -1,2 +1,2 @@
 # First-repo
-This is my first practice to scrap the spoon
+This is my first practice to grab the spoon
